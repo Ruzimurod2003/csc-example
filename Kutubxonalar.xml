@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Bu yerda FISh,Tug'ilgan yili,O'qigan kitobi,Viloyati mavjud-->
+<Talaba Id="001" Ismi="Nafisa" Familiyasi="Abdunazarova" Sharifi="Ro'zinazar qizi">
+  <Tugilgan_kuni>16.11.2000</Tugilgan_kuni>
+  <Tugilgan_joyi>
+    <Viloyati>Toshkent</Viloyati>
+    <Tumani>Bo'ka</Tumani>
+  </Tugilgan_joyi>
+  <Uqigan_kitobi>Tinchlik romani</Uqigan_kitobi>
+</Talaba>
